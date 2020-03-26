@@ -1,0 +1,28 @@
+
+.Form-body{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    text-align: center;
+    background-color: #b2d7ec;
+
+
+  }
+  
+  td, th {
+    border: 1px solid #0591b4;
+    text-align: center;
+    padding: 8px;
+
+  }
+  
+  tr:nth-child(even) {
+    background-color: white;
+    text-align: center;
+
+  }
